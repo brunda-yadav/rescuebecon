@@ -17,6 +17,6 @@ circuit
 result
 [RESULT](https://github.com/brunda-yadav/rescuebecon/blob/main/RESULT.pdf).
 ---
-Report
-[Report](https://github.com/brunda-yadav/rescuebecon/blob/main/Rescuebeacon_report(P%20BRUNDA%20YADAV).pdf).
+REPORT
+[REPORT](https://github.com/brunda-yadav/rescuebecon/blob/main/Rescuebeacon_report(P%20BRUNDA%20YADAV).pdf).
 
