@@ -9,7 +9,7 @@ COLLEGE: RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT
 MAIL ID : rvit22bec041.rvitm@rvei.edu.in
 ---
 code
-[code](https://github.com/brunda-yadav/rescuebecon/blob/main/Code)
+[code](https://github.com/brunda-yadav/rescuebecon/blob/main/code.cpp)
 ---
 circuit
 [circuit](https://github.com/brunda-yadav/rescuebecon/blob/main/circuit%20diagram.pdf)
